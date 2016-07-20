@@ -1,0 +1,26 @@
+.caja {
+
+    background-color: red;
+	height: 40px;
+	width: 60px;
+	
+	margin: 3px;
+
+}
+
+#grupo {
+
+	height: 220px;
+	width: 600px;
+    background-color: blue;
+     
+
+
+}
+
+.float {
+
+	float: left;
+	
+}
+
